@@ -1,0 +1,15 @@
+{
+  "name": "frisby-tryout",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    "frisby": "^0.8.5",
+    "jasmine-node": "^1.14.5 "
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
